@@ -3,8 +3,31 @@
 ## 📊 Project Overview
 This project analyzes customer purchasing behavior using transactional data from Instacart, an online grocery delivery platform. The objective is to identify patterns in how, when, and what customers purchase to generate insights that support marketing optimization and operational decision-making.
 
-Using five interconnected datasets — orders, products, order_products, aisles, and departments — the project performs extensive data preprocessing and exploratory data analysis (EDA) to uncover consumer habits, product popularity trends, and reorder behavior.
+Using five interconnected datasets: 
+- orders
+- products 
+- order_products 
+- aisles 
+- departments 
+
+The project performs extensive data preprocessing and exploratory data analysis (EDA) to uncover consumer habits, product popularity trends, and reorder behavior.
 The analysis simulates real-world data challenges, including missing values, duplicate records, and data inconsistencies, providing a practical demonstration of data cleaning and analytical problem-solving skills.
+
+## 💼 Business Problem
+
+Instacart processes thousands of grocery orders from customers with different purchasing habits, shopping frequencies, and product preferences. Without a clear understanding of customer behavior, it can be difficult to identify what drives purchases, when customers are most likely to shop, and which products contribute most to customer engagement and repeat orders.
+
+The business needs to answer questions such as:
+- When are customers most likely to place their orders?
+- How frequently do customers return to shop?
+- Which products and categories are purchased most often?
+- Which products are most likely to be reordered?
+- How large are typical customer baskets?
+- Are there distinct customer purchasing patterns or segments?
+- Which products can act as "anchor" products that encourage additional purchases?
+- How can customer behavior insights be used to improve marketing and shopping experiences?
+
+Without this analysis, marketing campaigns may rely on generalized assumptions rather than actual purchasing behavior, while operational teams may have limited visibility into demand patterns and customer shopping cycles.
 
 ## 📊 Dataset Description
 The project uses five relational datasets:
