@@ -29,6 +29,70 @@ The business needs to answer questions such as:
 
 Without this analysis, marketing campaigns may rely on generalized assumptions rather than actual purchasing behavior, while operational teams may have limited visibility into demand patterns and customer shopping cycles.
 
+## ⚙️ Skills Developed
+
+#### 🛠️ Tools
+
+`Python` `Pandas` `NumPy` `Jupyter` `Matplotlib` `Git` `GitHub`
+
+#### Data Analysis & Python
+- Pandas & NumPy
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Aggregation
+- Data Visualization with Matplotlib
+- Behavioral Data Analysis
+
+#### Data Preprocessing
+- Missing Value Analysis
+- Business-Logic-Based Imputation
+- Duplicate Detection & Removal
+- Data Consistency Validation
+- Outlier Analysis
+- Data Quality Assessment
+- Data Type Validation
+- Data Integrity Checks
+
+#### Relational Data Analysis
+- Multi-Table Data Analysis
+- Data Integration
+- Relational Dataset Analysis
+- Table Relationships
+- Merging & Joining Datasets
+- Cross-Dataset Validation
+- Product & Customer Hierarchy Analysis
+
+#### Customer Behavior Analysis
+- Customer Purchasing Behavior
+- Order Frequency Analysis
+- Shopping Cycle Analysis
+- Basket Size Analysis
+- Reorder Behavior Analysis
+- Customer Purchasing Patterns
+- Customer Segmentation
+- Customer Loyalty Analysis
+
+#### Exploratory Data Analysis
+- Time-Based Analysis
+- Day-of-Week Analysis
+- Hourly Purchase Patterns
+- Product Popularity Analysis
+- Product Category Analysis
+- Order Size Distribution
+- Frequency Distribution Analysis
+- Trend Identification
+
+#### Business Analytics
+- Customer Behavior Insights
+- Product Performance Analysis
+- Anchor Product Identification
+- Customer Segmentation Strategy
+- Marketing Opportunity Analysis
+- Operational Demand Analysis
+- Business Problem Translation
+- Data-Driven Decision Making
+
 ## 📊 Dataset Description
 The project uses five relational datasets:
 
